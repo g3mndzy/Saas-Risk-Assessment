@@ -33,7 +33,7 @@ This project was completed as part of a cybersecurity internship through Riipen.
 
 ---
 
-## Artifacts (Coming Soon)
+## Artifacts 
 - Risk Assessment Report
 - Vulnerability Template
 - Compliance Mapping Spreadsheet
